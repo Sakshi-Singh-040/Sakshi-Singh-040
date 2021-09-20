@@ -7,9 +7,9 @@
 
 - 🌱 I’m currently learning **Front-End Web Development**
 
-- 💬 Ask me about **Competetive Programminh**
+- 💬 Ask me about **Competitive Programming**
 
-- 📫 How to reach me **singhsaksi4102000@gmail.com**
+- 📫 How to reach me **singhsakshi4102000@gmail.com**
 
 - ⚡ Fun fact **I think I am funny**
 
